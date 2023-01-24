@@ -9,16 +9,17 @@ When it comes to this Sales Analysis, the purpose was to analyze a sample of Ama
 In order to help Amazon better understand their customers, some key questions needed to be answered to help identify trends in the data.
 
 Key questions include: 
-What is the total number of sales? 
-What is the average sales per month? 
-What is the monthly revenue? 
-Which market (state) generated the most sales on average? 
-When were the best- and worst-selling periods (quarters)? 
-What City had the highest number of sales? 
-Which products sell best? 
-What products are most often sold together? 
-Which products should the company order more or less of? 
-What times should we display advertisement to maximize likelihood of customer's buying product?
+
+- What is the total number of sales? 
+- What is the average sales per month? 
+- What is the monthly revenue? 
+- Which market (state) generated the most sales on average? 
+- When were the best- and worst-selling periods (quarters)? 
+- What City had the highest number of sales? 
+- Which products sell best? 
+- What products are most often sold together? 
+- Which products should the company order more or less of? 
+- What times should we display advertisement to maximize likelihood of customer's buying product?
 
 From answering these questions, several key insights were found:
 
