@@ -1,7 +1,7 @@
 # sales-analysis
 This project looks at a sample of Amazon orders from 2019, to help determine important KPI's such as the best-selling products (including product pairs), and the hours when products are ordered most often. SQL and Tableau were used for this analysis. 
 
-About this project
+# About this project
 I will preface this by saying it is my first project, and so it will most likely be improved upon in the future.
 
 When it comes to this Sales Analysis, the purpose was to analyze a sample of Amazon order data (which can be found here: https://www.kaggle.com/datasets/knightbearr/sales-product-data) and try and gather KPI's to better understand Amazon's customers and their buying patterns/preferences. This could in turn allow Amazon to make more informed decisions in regards to what products to sell and when to advertise their products (as examples).
@@ -12,12 +12,12 @@ Key questions include: What is the total number of sales? What is the average sa
 
 From answering these questions, several key insights were found:
 
-    Most commonly bought products pairs by far were the iPhone and Lightning Charging Cable (1014 times) and the Google Phone with USB-C Charging Cable (999 times). Both pairs contain a main product (the phone) and a compliment product (charging cable).
-    California generated the most sales by far (having over 3x the sales of the next closest state, New York).
-    San Francisco had the most sales, followed by Los Angeles (both California cities).
-    June to September was the weakest period for sales, while October to December was the strongest period.
-    Macbook Pro Laptops had 2x the sales of the next closest product (iPhone).
-    Time ranges of 11am to 1pm, and 6pm to 8pm are the best times for advertisements (7pm is when the most products are bought).
+- Most commonly bought products pairs by far were the iPhone and Lightning Charging Cable (1014 times) and the Google Phone with USB-C Charging Cable (999 times). Both pairs contain a main product (the phone) and a compliment product (charging cable).
+- California generated the most sales by far (having over 3x the sales of the next closest state, New York).
+- San Francisco had the most sales, followed by Los Angeles (both California cities).
+- June to September was the weakest period for sales, while October to December was the strongest period.
+- Macbook Pro Laptops had 2x the sales of the next closest product (iPhone).
+- Time ranges of 11am to 1pm, and 6pm to 8pm are the best times for advertisements (7pm is when the most products are bought).
 
 Based on this analysis, Amazon now can better understand their customers (including product preferences, where they commonly buy from, and up and downtimes for customer sales) and come up with solutions to address potential problem areas (such as the slump in sales during the summer).
 
