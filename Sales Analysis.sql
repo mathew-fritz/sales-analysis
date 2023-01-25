@@ -114,13 +114,21 @@ SET hour = HOUR(order_date);
 
 # DATA ANALYSIS
 
--- What is the total number of sales?
+-- What is the total sales amount?
+
+-- sum total per row (sales) column
+SELECT sum(total_per_row)
+FROM sales;
+
+-- ANSWER: The total sales amount is $34 492 035.
+
+-- What is the total number of products ordered?
 
 -- Sum the quantity ordered column
 SELECT sum(quantity_ordered)
 FROM sales;
 
--- ANSWER: The total number of sales is 209079.
+-- ANSWER: The total number of products ordered is 209079.
 
 -- What are the average sales per month?
 
