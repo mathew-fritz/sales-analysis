@@ -30,8 +30,8 @@ From answering these questions, several key insights were found:
 - Macbook Pro Laptops had 2x the sales of the next closest product (iPhone).
 - Time ranges of 11am to 1pm, and 6pm to 8pm are the best times for advertisements (7pm is when the most products are bought).
 
-Based on this analysis, Amazon now can better understand their customers (including product preferences, where they commonly buy from, and up and downtimes for customer sales) and come up with solutions to address potential problem areas (such as the slump in sales during the summer).
+Based on these insights, some potential solutions include:
 
-An example of a potential solution could be Amazon hosting their Prime Day during the summer months to try and boost sales which they have done over the previous years. This same approach could be used from January to March (sales are low during these months as well) through offering various discounts on in-demand items.
-
-Hopefully you enjoy looking through this project, and I'm always open to feedback.
+- Hosting events where large discounts can be had during the period of June - September. 
+- Display advertisements between 6-8pm (with special priority at 7pm).
+- Create a bundle with a Macbook Pro Laptop and iPhone.
