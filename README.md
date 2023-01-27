@@ -2,7 +2,6 @@
 This project looks at a sample of Amazon orders from 2019, to help determine important KPI's such as the best-selling products (including product pairs), and the hours when products are ordered most often. SQL and Tableau were used for this analysis. 
 
 # About This Project
-I will preface this by saying it is my first project, and so it will most likely be improved upon in the future.
 
 When it comes to this Sales Analysis, the purpose was to analyze a sample of Amazon order data (which can be found here: https://www.kaggle.com/datasets/knightbearr/sales-product-data) and try and gather KPI's to better understand Amazon's customers and their buying patterns/preferences. This could in turn allow Amazon to make more informed decisions in regards to what products to sell and when to advertise their products (as examples).
 
